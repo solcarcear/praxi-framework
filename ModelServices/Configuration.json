@@ -1,3 +1,14 @@
 {
+  "CreatioSettings": {
+    "UserName": "Supervisor",
+    "Password": "DEVMUPI2022+",
+    "UrlCreatio": "https://dev-mupi.creatio.com"
+  },
+  "CustomerSettings": {
+    "DbConnection": ""
+  },
+  "PraxiSettings": {
+
+  }
 
 }
