@@ -13,6 +13,7 @@ namespace CreatioServices.Models.Contact
         public string Surname { get; set; }
         public string Email { get; set; }
         public string JobTitle { get; set; }
+        public bool UsrSincronizar { get; set; }
         public DateTime? ModifiedOn { get; set; }
 
     }
